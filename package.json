@@ -1,0 +1,11 @@
+{
+  "name": "trx-js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Keijo Kapp <keijo.kapp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "latest"
+  }
+}
